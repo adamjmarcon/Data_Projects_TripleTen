@@ -15,7 +15,7 @@ Visualization:
 Additional Notes:
  
 
-DEDUCTIONS:
+Deductions:
 -	Exposure (# of locations) for top brands results in much higher revenue. Brands like McDonald's, Dominoes, Pizza Hut prove this rule.
 -	Large cities are split into provinces and each of these cities once properly summed are the most profitable. The larger the city, the higher the profit so long as Zomato has necessary representation. Bangalore and Dehli prove this rule. 
 - Cuisine is the most important factor. Sticking to Indian and Chinese cuisine yielded consistently positive results.
