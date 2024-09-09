@@ -3,12 +3,16 @@ Project Loom: https://www.loom.com/share/2826f4ea26f343d488135ad159fa567d?sid=ad
 Introduction:
 -In this project we will determine the cause for the unusually high rate of return at the Superstore and how best to curtail this negative trend.
 
+Questions:
+- What is the root cause for the high Rate of Return?
+- How can this problem be solved?
+
 Hypothesis:
--There are likely a few key factors contributing to the unusual rate of return at the superstore. 
+- There are likely a few key factors contributing to the unusual rate of return at the superstore. 
 In this study we will approach the data from Location (region/State), Product, Customer and Time of Year to determine which of these metrics best explains the rate of return and how to lower it in the future.
 
 Visuals:
--The findings of this analysis will be displayed in a final dashboard comprised of three slides, and presented in a comprehensive breakdown via a 5 to 10 minute Loom video.
+- The findings of this analysis will be displayed in a final dashboard comprised of three slides, and presented in a comprehensive breakdown via a 5 to 10 minute Loom video.
 
 Deductions:
 - The customer metric is a misnomer. While there are "problem customers" who tend to return at higher rates than others, this isn't substantial enough to be a key metric.
