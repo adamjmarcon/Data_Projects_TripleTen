@@ -1,7 +1,7 @@
 Project Loom: https://www.loom.com/share/2826f4ea26f343d488135ad159fa567d?sid=adff12a8-2474-4559-904b-b5c49243d300
 
 Introduction:
--In this project we will determine the cause for the unusually high rate of return at the Superstore and how best to curtail this negative trend.
+- In this project we will determine the cause for the unusually high rate of return at the Superstore and how best to curtail this negative trend.
 
 Questions:
 - What is the root cause for the high Rate of Return?
