@@ -22,5 +22,5 @@ Deductions:
 
 Solutions:
 - Discourage returns in California (or Western Region).
-- Perhaps a no refund policy on Office Supplies in California and ensure accurate item descriptions to prevent confusion from customers.
+- Perhaps a no refund policy on Office Supplies in California and ensure accurate item descriptions to prevent confusion among customers.
   
