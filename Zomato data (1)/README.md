@@ -1,4 +1,4 @@
-Final Project Loom: https://www.loom.com/share/b7848bac8e7146ab82f23846f8691466?sid=a1f886be-56a1-4ffa-bdd6-88e1bb153163
+Project Loom: https://www.loom.com/share/b7848bac8e7146ab82f23846f8691466?sid=a1f886be-56a1-4ffa-bdd6-88e1bb153163
 
 In this project we are determining the key metrics for assessing which brands should be future affiliates of Zomato.
 
